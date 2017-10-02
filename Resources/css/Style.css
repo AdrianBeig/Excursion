@@ -20,5 +20,7 @@ h2 {
   text-align: right;
   color: Gray;
 }
-.download { color:  Skyblue;
+.download{
+   color:  Aquamarine;
+  font-size: 16px;
 }
